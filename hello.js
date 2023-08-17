@@ -4,7 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello World!");
+console.log(44);
+console.log("Hi My Age is", 30);
+console.log("the Raven Nevermore");
+console.log("the more you read the more you learn");
+
+
 
 /*  
 Next, PLAY! 
